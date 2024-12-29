@@ -46,7 +46,7 @@ Ce projet est une implémentation complète du TP de Vérification et Validation
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone (https://github.com/FranckJudes/Use-Jenny_to_generate_test_Case/)
+   git clone https://github.com/FranckJudes/Use-Jenny_to_generate_test_Case
    ```
 
 2. **Compiler les classes** :
