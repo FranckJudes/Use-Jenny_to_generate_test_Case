@@ -1,4 +1,4 @@
-# TP : Vérification et Validation - Résolution des Équations du Second Degré
+#  Vérification et Validation - Résolution des Équations du Second Degré
 
 Ce projet est une implémentation complète du TP de Vérification et Validation, axé sur la résolution des équations du second degré. Le but principal est de mettre en pratique les concepts de tests logiciels, notamment les tests manuels et automatisés, tout en gérant les cas spécifiques à travers des exceptions personnalisées.
 
@@ -46,7 +46,7 @@ Ce projet est une implémentation complète du TP de Vérification et Validation
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone <url-du-repo>
+   git clone (https://github.com/FranckJudes/Use-Jenny_to_generate_test_Case/)
    ```
 
 2. **Compiler les classes** :
