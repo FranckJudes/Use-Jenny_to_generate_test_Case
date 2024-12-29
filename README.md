@@ -74,7 +74,7 @@ Ce projet est une implémentation complète du TP de Vérification et Validation
 - Production d'un rapport clair et détaillé des tests exécutés.
 
 ## Auteur
-**[Votre Nom]**
+**FranckJudes**
 
 ---
 N'hésitez pas à me contacter pour toute question ou suggestion concernant ce projet. 🚀
